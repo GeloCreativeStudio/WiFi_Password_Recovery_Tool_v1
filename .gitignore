@@ -1,0 +1,16 @@
+# Compiled files
+*.exe
+*.o
+*.out
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Windows specific
+Thumbs.db
+desktop.ini
+
+# Debug files
+*.pdb
+*.ilk 
